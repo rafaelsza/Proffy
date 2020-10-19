@@ -1,10 +1,12 @@
 <p align="center">
-    <img src="web/src/assets/images/logo.svg" alt="Proffy"/>
+    <img src="assets/header-proffy.png" alt="Proffy"/>
 </p>
 
 <p align="center">
 Projeto construído durante a Next Level Week #2 da Rocketseat.
 </p>
+
+<div align="center">
 
 ![](https://img.shields.io/badge/language-typescript-blue)
 ![](https://img.shields.io/badge/server-nodejs-brightgreen)
@@ -12,6 +14,8 @@ Projeto construído durante a Next Level Week #2 da Rocketseat.
 ![](https://img.shields.io/badge/mobile-react%20native-blueviolet)
 ![](https://img.shields.io/badge/database-mariadb-yellowgreen)
 ![](https://img.shields.io/badge/license-MIT-sucess)
+
+</div>
 
 Proffy é um projeto que foi desenvolvido para professores se cadastrarem na plataforma e anunciarem seu trabalho, onde alunos os procuram e entram em contato para solicitar seus serviços.
 
